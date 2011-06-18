@@ -1,0 +1,1 @@
+Todo = module.exports = Spine.Model.setup("Todo", [])
